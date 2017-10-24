@@ -322,31 +322,31 @@ display: -webkit-box;
   color: #fff;
 }
 [data-type="iceland"] .content__left {
-  background-image: url("C:/Users/Kishore/Desktop/New folder/Project/pics/sunrise at ava.jpg");
+  background-image: url("/pics/sunrise at ava.jpg");
 }
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
 }
 [data-type="kondakarlava"] .content__left {
-  background-image: url("C:/Users/Kishore/Desktop/New folder/Project/pics/coconuttreecanoes.jpg");
+  background-image: url("/pics/coconuttreecanoes.jpg");
 }
 .spinner--right [data-type="china"] .content__left {
   background-image: none;
 }
 [data-type="konda"] .content__left {
-  background-image: url("C:/Users/Kishore/Desktop/New folder/Project/pics/birds.jpg");
+  background-image: url("/pics/birds.jpg");
 }
 .spinner--right [data-type="usa"] .content__left {
   background-image: none;
 }
 [data-type="road"] .content__left {
-  background-image: url("C:/Users/Kishore/Desktop/New folder/Project/pics/ghatroad.jpg");
+  background-image: url("/pics/ghatroad.jpg");
 }
 .spinner--right [data-type="peru"] .content__left {
   background-image: none;
 }
 [data-type="waterfall"] .content__left {
-  background-image: url("C:/Users/Kishore/Desktop/New folder/Project/pics/waterfall.jpg");
+  background-image: url("/pics/waterfall.jpg");
 }
 .spinner--right [data-type="peru"] .content__left {
   background-image: none;
